@@ -6,6 +6,8 @@ The project is written in 2-3 weeks so might be better was written in Java
 How to use?
 
 General idea:
+An application that you could see on the phone where you can park your vehicle (in closed parking places like at work)
+We didnt had the right tools for that, so we did an application for windows but afterwards we did the same application for Android (Another repository) 
 there are three users in my app:
 Admin hes above everyone else
 Operator hes above Driver
