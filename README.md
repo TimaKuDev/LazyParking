@@ -1,4 +1,4 @@
-# LazyParking
+# LazyParkingForWindows
 This Project is an app that shows parking spaces of a company
 
 The project is written in 2-3 weeks so might be better was written in Java
